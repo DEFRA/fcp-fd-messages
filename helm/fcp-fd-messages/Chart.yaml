@@ -1,6 +1,6 @@
 apiVersion: v2
-description: description-of-project-goes-here
-name: ffc-template-node
+description: Service acts as a message broker in Front Door project
+name: fcp-fd-messages
 # this version is automatically updated in the build pipeline
 version: 1.0.0
 dependencies:

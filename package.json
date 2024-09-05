@@ -1,8 +1,8 @@
 {
-  "name": "ffc-template-node",
+  "name": "fcp-fd-messages",
   "version": "0.1.0",
-  "description": "description-of-project-goes-here",
-  "homepage": "https://github.com/DEFRA/ffc-template-node",
+  "description": "Service acts as a message broker in Front Door project",
+  "homepage": "https://github.com/DEFRA/fcp-fd-messages",
   "main": "app/index.js",
   "type": "module",
   "scripts": {
