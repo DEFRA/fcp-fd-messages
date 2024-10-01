@@ -1,7 +1,7 @@
 {
   "name": "fcp-fd-messages",
-  "version": "0.1.1",
-  "description": "Service acts as a message broker in Front Door project",
+  "version": "0.1.3",
+  "description": "Frontend microservice for messages.",
   "homepage": "https://github.com/DEFRA/fcp-fd-messages",
   "main": "app/index.js",
   "type": "module",
@@ -16,6 +16,7 @@
   },
   "author": "Defra",
   "contributors": [
+    "Rana Salem <rana.salem@defra.gov.uk>",
     "Amirs Ismuhametovs amirs.ishmuhametovs@defra.gov.uk"
   ],
   "license": "OGL-UK-3.0",
