@@ -8,8 +8,8 @@ services:
     image: fcp-fd-messages-development
     container_name: fcp-fd-messages-development
     ports:
-      - "3000:3000"
-      - "9229:9229"
+      - "3034:3034"
+      - "9034:9229"
     volumes:
       - ./app:/home/node/app
       - ./package.json:/home/node/package.json
